@@ -243,7 +243,18 @@ streamlit run app.py
 ```
 
 ---
-
+## 🌍 Deployment
+ 
+The app is deployed on **Streamlit Community Cloud** — free hosting for Streamlit apps.
+ 
+| Detail | Info |
+|--------|------|
+| Platform | Streamlit Community Cloud |
+| URL | [https://student-performance-prediction-linearregression.streamlit.app/](https://student-performance-prediction-linearregression.streamlit.app/) |
+| Status | ✅ Live |
+| Auto-redeploy | Yes — updates automatically on every GitHub push |
+ 
+---
 ## 📦 Requirements
 
 ```
