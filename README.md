@@ -1,5 +1,5 @@
 # Student-Performance-Prediction
-### Linear Regression | Machine Learning | Intern Assignment
+### Linear Regression | Machine Learning 
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.6.0-orange?style=flat-square&logo=scikit-learn)
@@ -275,18 +275,5 @@ pip install -r requirements.txt
 
 ## 🙋 Author
 
-**Your Name**
-Intern — Machine Learning
-📧 your.email@example.com
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-🐙 [GitHub](https://github.com/yourusername)
-
+**Aneeta Abraham**
 ---
-
-## 📄 License
-
-This project is for educational purposes as part of an internship assignment.
-
----
-
-*Built with ❤️ using Python, scikit-learn, and Streamlit*
