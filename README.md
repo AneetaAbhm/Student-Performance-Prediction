@@ -225,7 +225,7 @@ streamlit run app.py
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/student-performance-regression.git
+git clone [https://github.com/AneetaAbhm/Student-Performance-Prediction.git]
 cd student-performance-regression
 ```
 
