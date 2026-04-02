@@ -6,6 +6,8 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=flat-square&logo=streamlit)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit)](https://yourusername-student-performance-prediction.streamlit.app)
+
 ---
 
 ## 📌 Project Overview
