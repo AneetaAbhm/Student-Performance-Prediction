@@ -163,6 +163,16 @@ influential feature in predicting the exam score.
 > <img width="887" height="547" alt="image" src="https://github.com/user-attachments/assets/3c14cf3d-ec07-4623-b36d-e49569b02e85" />
 
 ---
+## 🔮 Unseen Data Prediction
+
+25 random rows were sampled from the original dataset and fed to the model.
+
+Results showed:
+- Predicted scores were consistently within **±2 marks** of actual scores
+- Confirms the model **generalizes well** to new unseen data
+
+> <img width="996" height="470" alt="image" src="https://github.com/user-attachments/assets/ea0ca982-e704-467f-b29e-07c834e65070" />
+---
 
 ## 🔁 Pipeline
 
@@ -182,18 +192,6 @@ Predicted Score
 
 The pipeline is saved as `student_model_pipe.pkl` and can be used directly
 with raw `Yes/No` input — no manual encoding required.
-
----
-
-## 🔮 Unseen Data Prediction
-
-25 random rows were sampled from the original dataset and fed to the model.
-
-Results showed:
-- Predicted scores were consistently within **±2 marks** of actual scores
-- Confirms the model **generalizes well** to new unseen data
-
-> <img width="996" height="470" alt="image" src="https://github.com/user-attachments/assets/ea0ca982-e704-467f-b29e-07c834e65070" />
 
 ---
 
