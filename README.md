@@ -25,8 +25,8 @@ and get an instant predicted score.
 
 ## 🎯 Problem Statement
 
-> Given a student's study habits and lifestyle information,
-> predict their final exam **Performance Index** (score out of 100).
+> Build a Linear Regression model to predict student final exam scores 
+> and identify relationships between input features and the output.
 
 ---
 
